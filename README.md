@@ -37,7 +37,7 @@ For example:
 ```
 renders as:
 
-![Butterfly Curve](butterfly.svg)
+![Butterfly Curve](/home/zeel/butterfly.svg)
 
 If you put your SVGs in a folder (like `plots/`):
 
