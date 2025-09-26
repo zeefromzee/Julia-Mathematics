@@ -23,7 +23,6 @@ All plots are generated using small Julia scripts and saved as SVGs for easy sha
 ---
 
 ## Show Off your plots! (´｡• ᵕ •｡`) ♡
-![Image](https://github.com/user-attachments/assets/f57931b5-b2a8-4679-bf3e-854d5dd1c312)
 ![Image](https://github.com/user-attachments/assets/66501a29-8dc7-4918-b591-abf1bd97e465)
 ![Image](https://github.com/user-attachments/assets/38ac99cd-a852-49de-8cf9-3c8c8db2c36e)
 
