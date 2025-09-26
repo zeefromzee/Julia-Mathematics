@@ -26,7 +26,9 @@ All plots are generated using small Julia scripts and saved as SVGs for easy sha
 
 
 
-![Butterfly Curve](https://pin.it/7guFmpMxT)
+<img width="900" height="550" alt="image" src="https://pin.it/5w7fSfAWX" />
+
+<p align="center">
 
 ---
 
