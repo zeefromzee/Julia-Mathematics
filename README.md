@@ -49,7 +49,7 @@ Pkg.add("Graphs")
 Run the main script:
 
 ```bash
-julia juli.jl
+julia graphs_julia.jl
 ```
 
 SVG images will appear in your folder—ready to view, share, or add to this README!
