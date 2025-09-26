@@ -22,28 +22,11 @@ All plots are generated using small Julia scripts and saved as SVGs for easy sha
 
 ---
 
-## How to show your plots! (´｡• ᵕ •｡`) ♡
+## Show Off your plots! (´｡• ᵕ •｡`) ♡
 
-To add your own plot images to this README, just use this markdown:
 
-```markdown
-![Short description](filename.svg)
-```
 
-For example:
-
-```markdown
-![Butterfly Curve](butterfly.svg)
-```
-renders as:
-
-![Butterfly Curve](/home/zeel/butterfly.svg)
-
-If you put your SVGs in a folder (like `plots/`):
-
-```markdown
-![Rose Curve](plots/rose_curve.svg)
-```
+![Butterfly Curve](https://pin.it/7guFmpMxT)
 
 ---
 
